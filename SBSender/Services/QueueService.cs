@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace SBSender.Services
 {
+    // Test by chamara 
     public class QueueService : IQueueService
     {
         private readonly IConfiguration _config;
